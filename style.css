@@ -1,0 +1,45 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+.form {
+    margin: auto;
+    padding: 20px;
+    width: 40%;
+    border: grey 1px solid;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font: 25px;
+}
+
+p,
+h1 {
+    font-weight: bold;
+    color: green
+}
+
+h2 {
+    color: red;
+}
+
+.submit-btn {
+    background-color: green;
+    color: white;
+}
+
+.submit-btn:hover {
+    background-color: white;
+    color: green;
+}
+
+form {
+    font-size: 30px;
+}
